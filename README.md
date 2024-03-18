@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm S. Lalitha Bhavani</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate learner</h3>
 
 - 🔭 I’m currently working on **Employee Attendance Monitoring System**
 
